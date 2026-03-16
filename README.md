@@ -385,12 +385,7 @@ python server_head.py \
 | `X` | Press and hold to close the left hand; release to reopen it |
 | `A` | Press and hold to close the right hand; release to reopen it |
 
-## Documentation and Related Projects
-
-Internal documentation:
-
-- [GMR/README.md](./GMR/README.md) for retargeting assets and dataset preparation
-- [Sim2Everything/README.md](./Sim2Everything/README.md) for deployment utility details
+## Related Projects
 
 Related projects:
 
