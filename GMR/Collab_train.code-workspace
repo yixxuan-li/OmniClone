@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../../../Documents/collab/Collab_train"
+		},
+		{
+			"path": "../../LatentControl"
+		},
+		{
+			"path": "../../.."
+		}
+	],
+	"settings": {}
+}
