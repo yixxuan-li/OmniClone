@@ -414,5 +414,3 @@ This project is released under the [MIT License](LICENSE).
 ## Acknowledgements
 
 We extend our sincere gratitude to Peiyang Li, Zimeng Yuan, Zhen Chen, Chengcheng Zhang, Yang Zhang, Nian Liu, Zhidan Liu, Zihui Liu and Mulin Sui, for their invaluable help in filming this demo.
-
-This work is supported in part by the National Key Research and Development Program of China (2025YFE0218200), the National Natural Science Foundation of China (62172043 to W.L., 62376009 to Y.Z.), the PKU-BingJi Joint Laboratory for Artificial Intelligence, the Wuhan Major Scientific and Technological Special Program (2025060902020304), the Hubei Embodied Intelligence Foundation Model Research and Development Program, and the National Comprehensive Experimental Base for Governance of Intelligent Society, Wuhan East Lake High-Tech Development Zone.
